@@ -24,8 +24,6 @@ export default function App() {
     setName(get_name);
   }
 
-  console.log(data);
-
   return (
     <>
       <header className="hero is-primary is-bold">
