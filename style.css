@@ -1,0 +1,19 @@
+.enter-block {
+  padding-bottom: 25px;
+}
+
+.country {
+  padding-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: cyan;
+}
+
+.country-code {
+  display: flex;
+}
+
+.predicted-country {
+  display: flex;
+}
